@@ -54,3 +54,26 @@ These relationships are displayed on the issue, as well as the Tracked by and Tr
 Quickly answer your most pressing questions by tailoring your project view to give you the information you need. You can save these views, allowing you to quickly return to them as needed and make them available to your team. Views not only let you scope down the items listed but also offer two different layout options.
 
 You can view your project as a high-density table layout{% ifversion projects-v2-roadmaps %}, as a kanban board, or a timeline-style roadmap{% else %} or a kanban board{% endif %}. For more information about the different layout options, see "[AUTOTITLE](/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view)."
+
+### Additional Features:
+
+#### Collaboration and Communication:
+GitHub Projects facilitates collaboration and communication within a team. Team members can discuss and provide updates on specific tasks or issues directly within the project, keeping all relevant information in one place.
+
+#### Milestones:
+Projects allow you to set milestones, which are specific points in the project timeline used to track progress. Milestones can help break down work into manageable chunks and provide a clear overview of project goals and deadlines.
+
+#### Labels and Filtering:
+GitHub Projects supports the use of labels, which are customizable tags used to categorize and filter issues and pull requests. Labels can help you organize and prioritize work, making it easier to focus on specific areas or tasks.
+
+#### Project Templates:
+GitHub provides pre-defined project templates that cater to different methodologies, such as Agile, Scrum, or Kanban. These templates offer a starting point for structuring your project and can be customized to align with your team's specific workflow.
+
+#### Project Insights:
+GitHub Projects provides insights and analytics on project progress, such as the number of open/closed issues, cycle time, and team member contributions. These metrics can help you identify bottlenecks, measure productivity, and make data-driven decisions.
+
+#### Project Automation:
+In addition to the built-in automations mentioned, GitHub Actions allow you to create custom workflows and automate various aspects of your project. This can include triggering actions based on specific events, integrating with external tools, or performing repetitive tasks automatically.
+
+#### External Integration:
+GitHub Projects can integrate with other project management and communication tools through third-party applications or APIs. This enables you to synchronize data, update tasks across platforms, and streamline your workflow by connecting GitHub Projects with your preferred tools.
